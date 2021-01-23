@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    margin-top: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+.text {
+    text-align: center;
+    width: 570px;
+    margin: 50px auto;
+}
+
+.personal {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pers {
+    width: 271px;
+    height: 325px;
+    /* border: 1px solid black; */
+}
+
+img {
+    width: 271px;
+    height: 271px;
+}
